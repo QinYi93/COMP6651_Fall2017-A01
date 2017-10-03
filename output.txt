@@ -1,0 +1,3 @@
+algoithms : algorithms 
+corretor : corrector 
+speliig : 
