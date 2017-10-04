@@ -1,1 +1,0 @@
-your task is to write and test two simple speliig corretor algoithms
